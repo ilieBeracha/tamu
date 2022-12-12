@@ -11,3 +11,19 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+* {
+  /* font-family: 'Assistant', sans-serif;
+  font-family: 'Josefin Sans', sans-serif;
+  font-family: 'Lobster', cursive;
+  font-family: 'Open Sans', sans-serif;
+  font-family: 'Poppins', sans-serif; */
+  font-family: 'Anybody', cursive;
+  font-family: 'Assistant', sans-serif;
+  font-family: 'Epilogue', sans-serif;
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'Open Sans', sans-serif;
+  font-family: 'Roboto', sans-serif;
+  font-family: 'Rubik', sans-serif;
+  font-family: 'Sora', sans-serif;
+}
